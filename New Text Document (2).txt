@@ -1,0 +1,72 @@
+.srs
+.dba,consultants,implementors,vendors,system integrator can be a stake holder
+.sales representator,marketing representator cannot be a stake holder in erp project
+.value sets and its types
+.ledger - calendar,currency,chart of accounts in 11i
+.ledger - calendar,currency,chart of accounts,business group, in 12i
+.home page applications - form based and self service
+.steps to create responsibility
+.menu exclusion feature
+.components of descriptive flexfield
+-------------------------------------------------------
+.AIM
+.forms personalisation
+.custom.pll can zoom available,event,style
+.ad_dd pkg is used to register custom tables
+-------------------------------------------------------
+.interpreter in java - javac,jvm
+.objects are created in heap memory
+-------------------------------------------------------
+.types of canvas
+-------------------------------------------------------
+.jit compiler is the responsibility which seperates java classes
+-------------------------------------------------------
+.types of columns in reports - place holder,formula,summary
+.set_view_property, get_view_property
+-------------------------------------------------------
+.forms_ddl - used to create temporary table inside a procedure
+.list of values
+.using call-form we can operate on only that form
+.using open_form we can operate on both the forms
+-------------------------------------------------------
+.show_lov
+-------------------------------------------------------
+.srw.message
+-------------------------------------------------------
+.in which base table the information of a base table placed - oe_order_headers_all
+.oe_order_lines_all about all lines information
+.transactions of AR - invoice, debit, credit
+-------------------------------------------------------
+.which command is used to display the device name - tty
+.which command is used to search forward and backward when the file is opened in vi editor - /: or ?:
+-------------------------------------------------------
+.wf_engine.background
+.wf cannot generate a report
+.components of workflow - builder,engine,notification mailer
+.types of purchase orders - standard,blancket,compact,planned
+.credit memo - raised against the invoice
+.diff states of order to cash cycle - entered,quick releases,ship confirm
+.3 diff instances in oracle apps project - development,user acceptance,production
+.3 tiers of 3 tier architecture - presentation/desktop,client,application
+.browser and internt connection are required to access oracle apps
+.fmb is available in au_top
+.fmx is available in respective tops - ap if it is payables,ar if it is receivables
+.gap analysis - 
+.multi org in 11i - one instalation for all
+.multi org in 11i is called in r123 as multi org access control
+-------------------------------------------------------
+.config management - 
+.v-model - verification & validation
+requirements				user acceptance test
+	design			product
+		build	unit,assembly
+.alpha testing - done at developers end
+.beta testing - done at user end 
+.v-model does validation & verification,parallel testing
+.increment model
+.diff sdlc phases
+.software requirement specifications - to build s/w in incremental way
+-------------------------------------------------------
+.pragma inception - compiler directive
+.pRAGMA_EXCEPTION_INIT
+.sqlcode - error code
